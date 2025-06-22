@@ -16,7 +16,7 @@ A modern, responsive web application for managing and showcasing items with a be
 
 ## 🚀 Live Demo
 
-**GitHub Repository:** [Item Showcase App](https://github.com/ht986648/Item-showing-app.git)
+**  Vercel  Deployed Link:** [Item Showcase App](https://item-showing-app.vercel.app/)
 
 ## 🛠 Tech Stack
 
